@@ -17,7 +17,7 @@ header {
     margin: auto; }
 
 .RightSide nav a {
-  font: 1.5rem/3.6rem 'OpenSans';
+  font: 1.5rem/3.6rem 'Open Sans';
   font-weight: 400;
   color: #959595;
   text-transform: uppercase;
@@ -42,7 +42,7 @@ header {
 
 .RightSide p {
   padding: 80px 0;
-  font: 3rem/3.6rem 'OpenSans';
+  font: 3rem/3.6rem 'Open Sans';
   font-weight: 300;
   color: #565656; }
 
@@ -79,7 +79,7 @@ main {
   position: relative; }
 
 .DoubleBlock h2 {
-  font: 1.4rem/2.1rem 'OpenSans';
+  font: 1.4rem/2.1rem 'Open Sans';
   color: #565656;
   text-transform: uppercase;
   margin-top: 20px;
@@ -94,11 +94,11 @@ main {
     display: flex;
     flex-flow: column; }
   .DoubleBlock .content .article h4 {
-    font: 1.5rem/2.1rem 'OpenSans';
+    font: 1.5rem/2.1rem 'Open Sans';
     color: #565656;
     text-align: center; }
   .DoubleBlock .content p {
-    font: 1.2rem/1.8rem OpenSans;
+    font: 1.2rem/1.8rem 'Open Sans';
     color: #959595;
     text-align: center; }
   .DoubleBlock .content .post {
@@ -144,7 +144,7 @@ main {
     flex-flow: column;
     justify-content: flex-end;
     text-decoration: none;
-    font: 1.4rem/1.4rem 'OpenSans';
+    font: 1.4rem/1.4rem 'Open Sans';
     color: #565656; }
 
 .img:hover .wall {
@@ -197,16 +197,16 @@ footer {
   footer .foot {
     width: 100%; }
   footer h6 {
-    font: 1.4rem/2.1rem 'OpenSans';
+    font: 1.4rem/2.1rem 'Open Sans';
     color: #919191;
     text-transform: uppercase;
     text-align: center; }
   footer p {
-    font: 1.2rem/1.8rem 'OpenSans';
+    font: 1.2rem/1.8rem 'Open Sans';
     color: #474747;
     text-align: center; }
   footer .DayAgo {
-    font: 1.1rem/1.8rem 'MyridPro';
+    font: 1.1rem/1.8rem 'Myrid Pro';
     color: #3b3b3b;
     font-style: oblique; }
   footer .facebook a img {
